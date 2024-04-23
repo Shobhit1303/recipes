@@ -1,4 +1,4 @@
-#Ingredients#
+#Ingredients
 
 #Instructions
 
